@@ -1,0 +1,103 @@
+body {
+    background-color:rgb(17, 17, 17);
+    color:#4297D7;
+    margin: 0;
+}
+
+header {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.aboutCollage {
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.collage, .logo {
+    text-align: center;
+    filter: brightness(80%);
+}
+
+.collage {
+    border-radius: 50px;
+}
+
+
+.file {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    color:#4297D7;
+}
+
+.info {
+    text-align: right;
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+}
+
+footer {
+    padding: 5px 0;
+    background-color: rgb(15, 15, 15);
+}
+
+.table {
+    padding: 5px 0;
+}
+
+table {
+    width: 100%;
+    border: rgb(221, 221, 221);
+    border-spacing: 1px;
+    background: rgb(221, 221, 221);
+    color: rgb(17, 17, 17);
+}
+
+.tc {
+    color:rgb(221, 221, 221);
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+}
+
+th, td {
+    background: rgb(17, 17, 17);
+    color: rgb(221, 221, 221);
+    padding: 5px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+.number {
+    padding: 5px;
+}
+
+.specailties, .departmet {
+    padding: 10px;
+}
+
+.number, .specailties, .departmet {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+.groupList {
+    color: rgb(221, 221, 221);
+    background-color: rgb(15, 15, 15);
+    padding: 5px 0;
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.teacherList {
+    color: rgb(221, 221, 221);
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.groupListName, .teacherListName {
+    text-align: center;
+    font-size: 20px;
+}
